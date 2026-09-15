@@ -1,0 +1,6 @@
+streamlit 
+groq 
+chromadb
+pypdf 
+scikit-learn 
+python-dotenv
